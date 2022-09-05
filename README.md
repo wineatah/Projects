@@ -1,2 +1,2 @@
-# Projects
-### Project developed on DataCamp guided projects.
+## DataCamp Projects
+#### Project developed on DataCamp guided projects.
